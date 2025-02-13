@@ -58,18 +58,21 @@ You can search for these documents by visiting the 3GPP website and filtering th
 
 ## **Accessing 3GPP Specifications**
 
-For 4G (LTE), the technical specifications start with the **36-series** (e.g., 36.211, 36.212 for LTE Physical Layer), while 5G specifications start with the **38-series**.
+For LTE, the technical specifications start with the **36-series** (e.g., 36.211, 36.212 for LTE Physical Layer), while 5G specifications start with the **38-series**.
 
 3GPP releases detailed **technical specifications** that describe how mobile networks should function. These documents are publicly available and can be accessed through the **ETSI website** or by searching Google with the specification number.
 
 ### **Key 5G Layer 1 Specifications (38-Series Documents)**
 | Specification | Description |
 |--------------|-------------|
+| **38.201** | General aspects and principles of NR |
+| **38.202** | Services provided by the physical layer |
 | **38.211** | Physical channels & modulation |
 | **38.212** | Multiplexing & channel coding |
 | **38.213** | Physical layer procedures for data |
 | **38.214** | Physical layer procedures for control |
 | **38.215** | Physical layer measurements |
+
 
 ### **Key 5G Layer 2 Specifications**
 | Specification | Description |
