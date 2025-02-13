@@ -77,4 +77,4 @@ Join the **5G Physical Training Program** today and gain **in-depth knowledge** 
 
 ---
 ## Next Section
-- ### 2. [5G: What and Why?](Introduction/5G_What_and_Why.md)
+- ### 2. [5G: What and Why?](5G_What_and_Why.md)
