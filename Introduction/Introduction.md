@@ -19,7 +19,7 @@ This course is structured to cater to various professionals and students, includ
 
 ## Course Structure & Modules
 
-This course consists of **hundreds of videos** that systematically take you from the **very basics to the most advanced concepts** of 5G Physical Layer.
+This course consists of differnet topics that systematically take you from the **very basics to the most advanced concepts** of 5G Physical Layer.
 
 ### **Module 1: Introduction to 5G Physical Layer**
 - What is the Physical Layer?
@@ -75,3 +75,6 @@ Join the **5G Physical Training Program** today and gain **in-depth knowledge** 
 
 🚀 **Master 5G Physical Layer and become a 5G expert!**
 
+---
+## Next Section
+- ### 2. [5G: What and Why?](Introduction/5G_What_and_Why.md)
