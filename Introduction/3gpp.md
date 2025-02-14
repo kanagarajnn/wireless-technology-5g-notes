@@ -111,4 +111,4 @@ This will lead you to the downloadable PDF version of the specification.
 In the next section, we will explore **how 3GPP meetings shape the future of mobile networks and how you can access the latest research in 5G.** Stay tuned!
 
 ## Next Section
-- ### 4. [5G Physical Layer Design](5G_Physical_Layer_Design.md)
+- ### 4. [5G Physical Layer Design](5G_Physical_Layer_Design_High_Level_Overview.md)
