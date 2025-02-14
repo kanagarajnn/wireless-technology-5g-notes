@@ -1,4 +1,4 @@
-# 5G Physical Training Program
+# 5G Physical Layer Learning Resource
 
 ## Section 1: Introduction
 1. [Introduction ](Introduction/Introduction.md)
