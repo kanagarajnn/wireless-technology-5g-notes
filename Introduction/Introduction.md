@@ -1,8 +1,8 @@
-# Introduction to 5G Training Course
+# Introduction to 5G
 
 ## Introduction
 
-Welcome to the **Comprehensive 5G Training Program**. 
+Welcome to the **Comprehensive 5G Training Resource**. 
 
 Whether you are an experienced engineer or a fresher looking to break into the core **5G communication** field, this course is designed for you. 
 
