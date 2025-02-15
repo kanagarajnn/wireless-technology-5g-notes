@@ -62,4 +62,4 @@ Understanding **Scrambling in 5G** is crucial for a **Cellular Modem Software En
 
 ---
 ## Next Section
-### 17. [Modulation Techniques](Essential_Modules_5G_PHY/Modulation_Techniques.md)  
+### 17. [Modulation Techniques](Modulation_Techniques.md)  
