@@ -1,4 +1,4 @@
-# **Understanding Cyclic Prefix in 5G Modem Software**
+# **Understanding Cyclic Prefix in 5G**
 
 ## **Introduction**
 Cyclic Prefix (CP) is an essential component in **5G, LTE, and OFDM-based systems**. It helps mitigate **Inter-Symbol Interference (ISI)** and **Inter-Carrier Interference (ICI)**, ensuring robust data transmission in wireless networks.
