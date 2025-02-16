@@ -1,4 +1,4 @@
-# **Understanding Frequency Mapping in 5G Modem Software**
+# **Understanding Frequency Mapping in 5G**
 
 ## **Introduction**
 In 5G, the **frequency domain structure** is designed to offer flexibility, efficiency, and support for multiple devices with varying bandwidth capabilities. Unlike LTE, where frequency allocations were relatively rigid, 5G introduces a more dynamic approach to **frequency mapping**, enabling a wide range of use cases, from low-latency applications to high-capacity broadband services.
