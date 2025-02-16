@@ -132,4 +132,4 @@ Mastering **5G time-domain concepts** is crucial for optimizing **network perfor
 
 ---
 ## Next Section
-### 22. [Resource Grid, Point A & Common Resource Blocks](Resource_Grid_PointA_Common_Resource_Blocks.md)
+### [PRBs in 5G](PRBs.md)
