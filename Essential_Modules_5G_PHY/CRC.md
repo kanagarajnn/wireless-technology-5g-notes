@@ -72,5 +72,5 @@ CRC is a fundamental technique for **error detection** in 5G modem software. It 
 For more details on **channel-level CRC usage**, we will discuss them in future notes!
 
 ## Next Section
- ### 7. [Channel Coding](Essential_Modules_5G_PHY/Channel_Coding.md)
+ ### 7. [Channel Coding](Channel_Coding.md)
 
