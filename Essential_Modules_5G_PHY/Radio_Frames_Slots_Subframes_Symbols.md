@@ -1,4 +1,4 @@
-# **Understanding Time Axis in 5G Modem Software**
+# **Understanding Time in 5G (Frames, Subframes, Slots, Symbols)**
 
 ## **Introduction**
 In 5G, time domain structures play a crucial role in managing data transmission. The key time-domain units include:
