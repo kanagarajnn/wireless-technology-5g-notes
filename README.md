@@ -33,9 +33,17 @@
 
 
 ## Section 3: Signal Synchronization Burst (SSBurst)
-26. [SSBurst Introduction](Signal_Synchronization_Burst/SSBurst_Introduction.md)  
-27. [SSBurst PSS](Signal_Synchronization_Burst/SSBurst_PSS.md)  
-28. [SSBurst SSS](Signal_Synchronization_Burst/SSBurst_SSS.md)  
-29. [SSBurst PBCH and PBCH DMRS](Signal_Synchronization_Burst/SSBurst_PBCH_DMRS.md)  
-30. [SSBurst Time and Frequency Locations](Signal_Synchronization_Burst/SSBurst_Time_Frequency_Locations.md)  
+26. [SSBurst: Introduction](Signal_Synchronization_Burst/SSBurst_Introduction.md)  
+27. [SSBurst: PSS](Signal_Synchronization_Burst/SSBurst_PSS.md)  
+28. [SSBurst: SSS](Signal_Synchronization_Burst/SSBurst_SSS.md)  
+29. [SSBurst: PBCH and PBCH DMRS](Signal_Synchronization_Burst/SSBurst_PBCH_DMRS.md)  
+30. [SSBurst: Time and Frequency Locations](Signal_Synchronization_Burst/SSBurst_Time_Frequency_Locations.md)  
+
+
+## Section 4: PDCCH
+31. [PDCCH: Transmitter Design and DMRS](PDCCH/PDCCH_Transmitter_Design_DMRS.md)  
+32. [PDCCH: DCIs](PDCCH/PDCCH_DCIs.md)  
+33. [PDCCH: Coreset](PDCCH/PDCCH_Coreset.md)  
+34. [PDCCH: Search Space](PDCCH/PDCCH_Search_Space.md)  
+35. [PDCCH: Receiver and Blind Decoding](PDCCH/PDCCH_Receiver_Blind_Decoding.md)  
 
