@@ -1,4 +1,4 @@
-# **Modulation Mapper in 5G Modem Software**
+# **Modulation Techniques in 5G**
 
 ## **Introduction**
 In 5G signal transmission, modulation mapping plays a crucial role in efficiently converting digital bits into complex-valued symbols for wireless communication. This process ensures optimal use of bandwidth while maintaining signal integrity. There are two primary types of modulation in 5G:
