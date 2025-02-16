@@ -25,10 +25,17 @@
 19. [Cyclic Prefix](Essential_Modules_5G_PHY/Cyclic_Prefix.md)  
 20. [Numerology](Essential_Modules_5G_PHY/Numerology.md)  
 21. [Radio Frames, Slots, Subframes and Symbols](Essential_Modules_5G_PHY/Radio_Frames_Slots_Subframes_Symbols.md)  
-22. [Resource Grid, Point A & Common Resource Blocks](Essential_Modules_5G_PHY/Resource_Grid_PointA_Common_Resource_Blocks.md)  
+22. [Resource Grid, Point A & Common Resource Blocks](Essential_Modules_5G_PHY/Resource_Grid_PointA_Common_Resource_Blocks.md)
+    - [PRBs in 5G](Essential_Modules_5G_PHY/PRBs.md)    
 23. [Bandwidth Part (BWP): Concept and Motivation](Essential_Modules_5G_PHY/Bandwidth_Part_BWP_Concept_Motivation.md)  
 24. [Antennas and Beamforming](Essential_Modules_5G_PHY/Antennas_Beamforming.md)  
 25. [Introduction to DMRS, Channel Estimation & Equalization](Essential_Modules_5G_PHY/DMRS_Channel_Estimation_Equalization.md)
 
-  
+
+## Section 3: Signal Synchronization Burst (SSBurst)
+26. [SSBurst Introduction](Signal_Synchronization_Burst/SSBurst_Introduction.md)  
+27. [SSBurst PSS](Signal_Synchronization_Burst/SSBurst_PSS.md)  
+28. [SSBurst SSS](Signal_Synchronization_Burst/SSBurst_SSS.md)  
+29. [SSBurst PBCH and PBCH DMRS](Signal_Synchronization_Burst/SSBurst_PBCH_DMRS.md)  
+30. [SSBurst Time and Frequency Locations](Signal_Synchronization_Burst/SSBurst_Time_Frequency_Locations.md)  
 
