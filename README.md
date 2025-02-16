@@ -47,3 +47,20 @@
 34. [PDCCH: Search Space](PDCCH/PDCCH_Search_Space.md)  
 35. [PDCCH: Receiver and Blind Decoding](PDCCH/PDCCH_Receiver_Blind_Decoding.md)  
 
+
+## Section 5: PDSCH & PUSCH  
+36. [DMRS for PDSCH and PUSCH](PDSCH_PUSCH/DMRS_for_PDSCH_PUSCH.md)  
+37. [PDSCH/PUSCH: Physical layer processing](PDSCH_PUSCH/Physical_Layer_Processing.md)  
+38. [PDSCH/PUSCH: Time and frequency domain resource allocation Part 01](PDSCH_PUSCH/Time_Frequency_Resource_Allocation_Part_01.md)  
+39. [PDSCH/PUSCH: Time and frequency domain resource allocation Part 02](PDSCH_PUSCH/Time_Frequency_Resource_Allocation_Part_02.md)  
+40. [PDSCH/PUSCH: MCS tables](PDSCH_PUSCH/MCS_Tables.md)  
+41. [PDSCH/PUSCH: Transport Block (TB) size calculations](PDSCH_PUSCH/Transport_Block_Size_Calculations.md)  
+42. [MIMO: Basics of Multiple Antenna Systems](PDSCH_PUSCH/Basics_of_Multiple_Antenna_Systems.md)  
+43. [PDSCH: Precoding for MIMO](PDSCH_PUSCH/Precoding_for_MIMO.md)  
+44. [PDSCH/PUSCH: UE Multiplexing and Multi UE/TTI](PDSCH_PUSCH/UE_Multiplexing_Multi_UE_TTI.md)  
+45. [SU-MIMO and MU-MIMO](PDSCH_PUSCH/SU_MIMO_MU_MIMO.md)  
+46. [PUSCH: DFT-s-OFDM | Transform Precoding](PDSCH_PUSCH/DFT_s_OFDM_Transform_Precoding.md)  
+47. [PUSCH: MIMO, Codebook, Beamforming and more](PDSCH_PUSCH/MIMO_Codebook_Beamforming.md)  
+48. [PUSCH: Non codebook based MIMO](PDSCH_PUSCH/Non_Codebook_Based_MIMO.md)  
+
+
