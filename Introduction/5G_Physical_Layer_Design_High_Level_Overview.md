@@ -360,5 +360,5 @@ We will go over:
 This structured overview of the **5G physical layer** provides insights into the **various signals and channels** that facilitate data transmission. Understanding these elements is crucial to grasp how **modern wireless communication operates efficiently**.
 
 ---
-Thank you for following this overview!
-
+## Next Section
+### 6. [CRC](../Essential_Modules_5G_PHY/CRC.md)  
