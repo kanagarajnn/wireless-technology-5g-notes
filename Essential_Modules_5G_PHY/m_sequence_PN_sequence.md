@@ -75,4 +75,4 @@ Understanding **PN Sequences** is essential for a **Cellular Modem Software Engi
 
 ---
 ## Next Section
-### 15. [Zadoff-Chu Sequence](Essential_Modules_5G_PHY/Zadoff_Chu_Sequence.md)
+### 15. [Zadoff-Chu Sequence](Zadoff_Chu_Sequence.md)
