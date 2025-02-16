@@ -1,4 +1,4 @@
-# **Understanding Bandwidth Part (BWP) in 5G Modem Software**
+# **Understanding Bandwidth Part (BWP) in 5G**
 
 ## **Introduction**
 Bandwidth Part (**BWP**) is a powerful and flexible feature introduced in **5G New Radio (NR)** that allows dynamic adaptation of frequency resources to improve **spectrum efficiency**, **power consumption**, and **network performance**. Unlike LTE, where the entire carrier bandwidth is used, 5G enables **multiple bandwidth partitions** that can be dynamically allocated to different users or applications.
