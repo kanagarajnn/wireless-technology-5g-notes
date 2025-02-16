@@ -26,7 +26,7 @@
 20. [Numerology](Essential_Modules_5G_PHY/Numerology.md)  
 21. [Radio Frames, Slots, Subframes and Symbols](Essential_Modules_5G_PHY/Radio_Frames_Slots_Subframes_Symbols.md)  
 22. [Resource Grid, Point A & Common Resource Blocks](Essential_Modules_5G_PHY/Resource_Grid_PointA_Common_Resource_Blocks.md)
-    - [PRBs in 5G](Essential_Modules_5G_PHY/PRBs.md)    
+    - [Physical Resource Blocks (PRBs) in 5G](Essential_Modules_5G_PHY/PRBs.md)    
 23. [Bandwidth Part (BWP): Concept and Motivation](Essential_Modules_5G_PHY/Bandwidth_Part_BWP_Concept_Motivation.md)  
 24. [Antennas and Beamforming](Essential_Modules_5G_PHY/Antennas_Beamforming.md)  
 25. [Introduction to DMRS, Channel Estimation & Equalization](Essential_Modules_5G_PHY/DMRS_Channel_Estimation_Equalization.md)
