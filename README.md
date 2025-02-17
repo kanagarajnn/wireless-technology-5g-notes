@@ -64,3 +64,13 @@
 48. [PUSCH: Non codebook based MIMO](PDSCH_PUSCH/Non_Codebook_Based_MIMO.md)  
 
 
+## Section 6: PRACH
+
+49. [PRACH: What and Why?](PRACH/What_and_Why.md)  
+50. [PRACH: Signal Generation and Mapping](PRACH/Signal_Generation_and_Mapping.md)  
+51. [PRACH: Cyclic Shift, Restricted Sets, and Timing Offset](PRACH/Cyclic_Shift_Restricted_Sets_Timing_Offset.md)  
+52. [PRACH: Long formats](PRACH/Long_Formats.md)  
+53. [PRACH: Short formats](PRACH/Short_Formats.md)  
+54. [PRACH: More on Resource Allocation](PRACH/More_on_Resource_Allocation.md)  
+55. [PRACH: Receiver Processing](PRACH/Receiver_Processing.md)
+
