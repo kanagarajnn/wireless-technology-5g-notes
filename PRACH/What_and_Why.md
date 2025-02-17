@@ -39,7 +39,7 @@ PRACH is essential in multiple scenarios:
 4. **Cell Handover**: When moving between cells, the UE sends PRACH to synchronize with the new gNB.
 
 ## Conclusion
-PRACH is a crucial aspect of 5G networks, allowing UEs to establish and maintain uplink connectivity. It is specifically designed to handle varying propagation delays and ensure seamless communication between the UE and the gNB. Future videos will cover **PRACH signal generation, mapping, different formats, and processing techniques** in more detail.
+PRACH is a crucial aspect of 5G networks, allowing UEs to establish and maintain uplink connectivity. It is specifically designed to handle varying propagation delays and ensure seamless communication between the UE and the gNB. Future topics will cover **PRACH signal generation, mapping, different formats, and processing techniques** in more detail.
 
 ---
 ## Next Section
