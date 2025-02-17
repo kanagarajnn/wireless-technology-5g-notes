@@ -72,3 +72,19 @@
 54. [PRACH: More on Resource Allocation](PRACH/More_on_Resource_Allocation.md)  
 55. [PRACH: Receiver Processing](PRACH/Receiver_Processing.md)
 
+
+## Section 7: PUCCH
+56. [PUCCH: Introduction to Physical Uplink Control Channel](PUCCH/Introduction.md)  
+57. [PUCCH Format 0: Signal Generation and Resource Mapping](PUCCH/Format_0_Signal_Generation_Resource_Mapping.md)  
+58. [PUCCH Format 0: UE Multiplexing and Receiver](PUCCH/Format_0_UE_Multiplexing_Receiver.md)  
+59. [PUCCH Format 1: Signal Generation and Resource Mapping](PUCCH/Format_1_Signal_Generation_Resource_Mapping.md)  
+60. [PUCCH Format 1: DMRS](PUCCH/Format_1_DMRS.md)  
+61. [PUCCH Format 1: UE Multiplexing and Receiver](PUCCH/Format_1_UE_Multiplexing_Receiver.md)  
+62. [PUCCH Format 2/3/4: Bit Processing, CSI Part 1 and Part 2](PUCCH/Format_2_3_4_Bit_Processing_CSI.md)  
+63. [PUCCH Format 2: DMRS](PUCCH/Format_2_DMRS.md)  
+64. [PUCCH Format 2: Signal Generation, Receiver and More](PUCCH/Format_2_Signal_Generation_Receiver.md)  
+65. [PUCCH Format 3/4: DMRS](PUCCH/Format_3_4_DMRS.md)  
+66. [PUCCH Format 3: Signal Generation, Receiver and More](PUCCH/Format_3_Signal_Generation_Receiver.md)  
+67. [PUCCH Format 4: Signal Generation, UE Multiplexing and Receiver](PUCCH/Format_4_Signal_Generation_UE_Multiplexing_Receiver.md)
+
+
