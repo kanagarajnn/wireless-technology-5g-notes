@@ -1,4 +1,4 @@
-# **PUCCH in 5G: A Detailed Overview**
+# **PUCCH in 5G: Introduction**
 
 ## **Introduction**
 PUCCH (Physical Uplink Control Channel) is the uplink control channel in 5G NR (New Radio) that carries **Uplink Control Information (UCI)**. This information is crucial for communication between the **User Equipment (UE)** and the **gNB (gNodeB, the 5G base station)**. 
