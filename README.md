@@ -7,8 +7,7 @@
 4. [5G Physical Layer Design ](Introduction/5G_Physical_Layer_Design_High_Level_Overview.md)
 5. [Understanding 5G Physical Layer (PHY) with Real-World Examples](Introduction/5G_PHY_simplified.md)
 
-## **Section 2: Essential Modules of 5G Physical Layer**
-
+## Section 2: Essential Modules of 5G Physical Layer
 6. [CRC](Essential_Modules_5G_PHY/CRC.md)  
 7. [Channel Coding](Essential_Modules_5G_PHY/Channel_Coding.md)  
 8. [Rate Matching](Essential_Modules_5G_PHY/Rate_Matching.md)  
@@ -65,7 +64,6 @@
 
 
 ## Section 6: PRACH
-
 49. [PRACH: What and Why?](PRACH/What_and_Why.md)  
 50. [PRACH: Signal Generation and Mapping](PRACH/Signal_Generation_and_Mapping.md)  
 51. [PRACH: Cyclic Shift, Restricted Sets, and Timing Offset](PRACH/Cyclic_Shift_Restricted_Sets_Timing_Offset.md)  
