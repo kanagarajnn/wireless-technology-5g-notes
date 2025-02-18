@@ -31,7 +31,7 @@
 25. [Introduction to DMRS, Channel Estimation & Equalization](Essential_Modules_5G_PHY/DMRS_Channel_Estimation_Equalization.md)
 
 
-## Section 3: Signal Synchronization Burst (SSBurst)
+## Section 3: Synchronization Signal Block (SSB) / SSBurst
 26. [SSBurst: Introduction](Signal_Synchronization_Burst/SSBurst_Introduction.md)  
 27. [SSBurst: PSS](Signal_Synchronization_Burst/SSBurst_PSS.md)  
 28. [SSBurst: SSS](Signal_Synchronization_Burst/SSBurst_SSS.md)  
