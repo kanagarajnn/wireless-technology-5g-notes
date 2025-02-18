@@ -88,3 +88,54 @@
 67. [PUCCH Format 4: Signal Generation, UE Multiplexing and Receiver](PUCCH/Format_4_Signal_Generation_UE_Multiplexing_Receiver.md)
 
 
+## Section 8: CSI-RS
+68. [CSI-RS: Channel State Information Reference Signal](CSI-RS/Channel_State_Information_Reference_Signal.md)  
+69. [CSI-RS: CDM Concept](CSI-RS/CDM_Concept.md)  
+70. [CSI-RS: Sequence Generation and Mapping](CSI-RS/Sequence_Generation_and_Mapping.md)  
+71. [CSI-RS: Sequence Generation and Mapping with Example](CSI-RS/Sequence_Generation_and_Mapping_with_Example.md)  
+72. [CSI-IM: CSI for Interference Measurement](CSI-RS/CSI_for_Interference_Measurement.md)  
+73. [CSI-RS: CQI & RI](CSI-RS/CQI_RI.md)  
+74. [CSI-RS: PMI](CSI-RS/PMI.md)  
+
+
+## Section 9: SRS
+75. [SRS: Introduction to Sounding Reference Signal](SRS/Introduction_to_Sounding_Reference_Signal.md)  
+76. [SRS: Sequence Generation](SRS/Sequence_Generation.md)  
+77. [SRS: Resource Mapping](SRS/Resource_Mapping.md)  
+78. [SRS: Receiver Processing, TDD Reciprocity and Antenna Switching](SRS/Receiver_Processing_TDD_Reciprocity_Antenna_Switching.md)  
+
+
+## Section 10: PTRS
+79. [Phase Noise: What and Why?](PTRS/Phase_Noise_What_and_Why.md)  
+80. [PTRS: Signal Generation and Mapping [PDSCH & PUSCH]](PTRS/Signal_Generation_and_Mapping_PDSCH_PUSCH.md)  
+81. [PTRS: Signal Generation and Mapping [PUSCH Transform Precoding]](PTRS/Signal_Generation_and_Mapping_PUSCH_Transform_Precoding.md)  
+82. [PTRS: Receiver Design](PTRS/Receiver_Design.md)  
+
+
+## Section 11: Additional Topics
+83. [NR operating bands, bandwidth, SDL and SUL](Additional_Topics/NR_operating_bands_bandwidth_SDL_SUL.md)  
+84. [RSRP: Reference Signal Received Power](Additional_Topics/RSRP_Reference_Signal_Received_Power.md)  
+85. [RSRQ: Reference Signal Received Quality](Additional_Topics/RSRQ_Reference_Signal_Received_Quality.md)  
+86. [Sampling Rates in 5G](Additional_Topics/Sampling_Rates_in_5G.md)  
+87. [ARFCN: Absolute Radio-Frequency Channel Number](Additional_Topics/ARFCN_Absolute_Radio_Frequency_Channel_Number.md)  
+88. [GSCN: Global Synchronization Channel Number](Additional_Topics/GSCN_Global_Synchronization_Channel_Number.md)  
+89. [TDD slot structure](Additional_Topics/TDD_Slot_Structure.md)  
+90. [Quick throughput calculation](Additional_Topics/Quick_Throughput_Calculation.md)  
+91. [Calculating the exact throughput](Additional_Topics/Calculating_Exact_Throughput.md)  
+92. [PAPR: Peak to Average Power Ratio in OFDM](Additional_Topics/PAPR_Peak_to_Average_Power_Ratio_in_OFDM.md)
+
+
+## Section 12: HARQ
+93. [HARQ: What and Why? (PDSCH and PUSCH)](HARQ/What_and_Why_PDSCH_PUSCH.md)  
+94. [HARQ: CBG Based Transmission](HARQ/CBG_Based_Transmission.md)  
+95. [HARQ: Codebooks for PDSCH Ack/Nack](HARQ/Codebooks_for_PDSCH_Ack_Nack.md)  
+
+
+## Section 13: Timing Advance
+96. [Introduction to Timing Advance in 5G – What it is and why it matters](Timing_Advance/Introduction_to_TA.md)  
+97. [Timing Advance vs Cyclic Prefix - ISI vs propagation delay](Timing_Advance/TA_vs_Cyclic_Prefix_ISI_vs_Propagation_Delay.md)  
+98. [Timing Advance in TDD vs. FDD – Differences in timing adjustments](Timing_Advance/TA_in_TDD_vs_FDD.md)  
+99. [Timing Advance Calculation & Formula – Understanding the TA equation](Timing_Advance/TA_Calculation_and_Formula.md)  
+100. [Timing Advance - A quick and easy check](Timing_Advance/Quick_and_Easy_Check.md)  
+101. [TA Procedures and Reporting in 5G – How UE and gNB handle it](Timing_Advance/TA_Procedures_and_Reporting.md)  
+
