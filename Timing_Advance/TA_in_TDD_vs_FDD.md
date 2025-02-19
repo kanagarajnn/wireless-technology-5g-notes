@@ -111,4 +111,4 @@ Understanding these factors helps **optimize 5G modem performance** and ensures 
 
 ---
 ## Next Topic
-### 99. [Timing Advance Calculation & Formula – Understanding the TA equation](TA_Calculation_and_Formula.md)   
+### 102. [Timing Advance Calculation & Formula – Understanding the TA equation](TA_Calculation_and_Formula.md)   
