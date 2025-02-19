@@ -83,3 +83,7 @@ HARQ operates across different layers in 5G to enhance reliability and efficienc
 - **Layer 2 (RLC Sub-Layer):** Provides **higher-level retransmissions** when HARQ at MAC Layer fails.
 - **Layer 3 (RRC Layer):** Handles **persistent failures, link recovery, and network handovers** to maintain seamless connectivity.
 
+---
+## Next Topic
+### 97. [HARQ: CBG Based Transmission](CBG_Based_Transmission.md)
+
