@@ -91,4 +91,4 @@ Understanding their differences helps in optimizing **5G modem software** and en
 
 ---
 ## Next Topic
-### 98. [Timing Advance in TDD vs. FDD – Differences in timing adjustments](TA_in_TDD_vs_FDD.md)
+### 101. [Timing Advance in TDD vs. FDD – Differences in timing adjustments](TA_in_TDD_vs_FDD.md)
