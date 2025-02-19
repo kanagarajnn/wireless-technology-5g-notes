@@ -106,3 +106,7 @@ While HARQ is crucial for data transmission in shared channels, it is not requir
 ---
 
 This structured guide provides a **clear, comprehensive** explanation of HARQ in 5G networks. Let me know if you need further refinements or additional real-world applications! 🚀
+
+---
+## Next Topic
+### 95. [HARQ: Introduction Part 2](HARQ_Intro_Part2.md)
