@@ -111,4 +111,4 @@ Understanding these factors helps **optimize 5G modem performance** and ensures 
 
 ---
 ## Next Topic
-### 98. [Timing Advance in TDD vs. FDD – Differences in timing adjustments](TA_in_TDD_vs_FDD.md) 
+### 99. [Timing Advance Calculation & Formula – Understanding the TA equation](TA_Calculation_and_Formula.md)   
