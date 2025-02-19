@@ -126,16 +126,19 @@
 
 
 ## Section 12: HARQ
-93. [HARQ: What and Why? (PDSCH and PUSCH)](HARQ/What_and_Why_PDSCH_PUSCH.md)  
-94. [HARQ: CBG Based Transmission](HARQ/CBG_Based_Transmission.md)  
-95. [HARQ: Codebooks for PDSCH Ack/Nack](HARQ/Codebooks_for_PDSCH_Ack_Nack.md)  
+93. [HARQ: What and Why? (PDSCH and PUSCH)](HARQ/What_and_Why_PDSCH_PUSCH.md)
+94. [HARQ: Introduction Part 1](HARQ/HARQ_Intro_Part1.md)
+95. [HARQ: Introduction Part 2](HARQ/HARQ_Intro_Part2.md)
+96. [HARQ: HARQ at PHY MAC RCL RRC](HARQ/HARQ_at_PHY_MAC_RLC_RRC.md) 
+97. [HARQ: CBG Based Transmission](HARQ/CBG_Based_Transmission.md)  
+98. [HARQ: Codebooks for PDSCH Ack/Nack](HARQ/Codebooks_for_PDSCH_Ack_Nack.md)  
 
 
 ## Section 13: Timing Advance
-96. [Introduction to Timing Advance in 5G – What it is and why it matters](Timing_Advance/Introduction_to_TA.md)  
-97. [Timing Advance vs Cyclic Prefix - ISI vs propagation delay](Timing_Advance/TA_vs_Cyclic_Prefix_ISI_vs_Propagation_Delay.md)  
-98. [Timing Advance in TDD vs. FDD – Differences in timing adjustments](Timing_Advance/TA_in_TDD_vs_FDD.md)  
-99. [Timing Advance Calculation & Formula – Understanding the TA equation](Timing_Advance/TA_Calculation_and_Formula.md)  
-100. [Timing Advance - A quick and easy check](Timing_Advance/Quick_and_Easy_Check.md)  
-101. [TA Procedures and Reporting in 5G – How UE and gNB handle it](Timing_Advance/TA_Procedures_and_Reporting.md)  
+99. [Introduction to Timing Advance in 5G – What it is and why it matters](Timing_Advance/Introduction_to_TA.md)  
+100. [Timing Advance vs Cyclic Prefix - ISI vs propagation delay](Timing_Advance/TA_vs_Cyclic_Prefix_ISI_vs_Propagation_Delay.md)  
+101. [Timing Advance in TDD vs. FDD – Differences in timing adjustments](Timing_Advance/TA_in_TDD_vs_FDD.md)  
+102. [Timing Advance Calculation & Formula – Understanding the TA equation](Timing_Advance/TA_Calculation_and_Formula.md)  
+103. [Timing Advance - A quick and easy check](Timing_Advance/Quick_and_Easy_Check.md)  
+104. [TA Procedures and Reporting in 5G – How UE and gNB handle it](Timing_Advance/TA_Procedures_and_Reporting.md)  
 
