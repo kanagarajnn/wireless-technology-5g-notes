@@ -64,4 +64,4 @@ By understanding Timing Advance, we gain insights into how modern cellular netwo
 
 ---
 ## Next Topic
-### 97. [Timing Advance vs Cyclic Prefix - ISI vs propagation delay](TA_vs_Cyclic_Prefix_ISI_vs_Propagation_Delay.md)
+### 100. [Timing Advance vs Cyclic Prefix - ISI vs propagation delay](TA_vs_Cyclic_Prefix_ISI_vs_Propagation_Delay.md)
