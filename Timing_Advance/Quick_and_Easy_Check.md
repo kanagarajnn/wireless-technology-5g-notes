@@ -89,4 +89,4 @@ By understanding **TA values and their impact on distance estimation**, 5G netwo
 
 ---
 ## Next Topic
-### 101. [TA Procedures and Reporting in 5G – How UE and gNB handle it](TA_Procedures_and_Reporting.md)  
+### 104. [TA Procedures and Reporting in 5G – How UE and gNB handle it](TA_Procedures_and_Reporting.md)  
