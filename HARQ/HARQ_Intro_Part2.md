@@ -90,3 +90,5 @@ HARQ is a critical feature in **5G modem software** that significantly improves 
 Understanding these concepts is crucial for modem software engineers working on 5G implementations, as they directly impact **performance, power consumption, and user experience** in real-world applications.
 
 ---
+## Next Topic
+### 96. [HARQ: HARQ at PHY MAC RCL RRC](HARQ_at_PHY_MAC_RLC_RRC.md)
