@@ -99,5 +99,5 @@ In wireless communication, data transmission is susceptible to **noise, interfer
 
 ---
 ## Next Topic
-### 94. [HARQ: CBG Based Transmission](CBG_Based_Transmission.md)
+### 94. [HARQ: Introduction Part 1](HARQ_Intro_Part1.md)
 
