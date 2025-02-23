@@ -69,8 +69,8 @@ For LTE, the technical specifications start with the **36-series** (e.g., 36.211
 | **38.202** | Services provided by the physical layer |
 | **38.211** | Physical channels & modulation |
 | **38.212** | Multiplexing & channel coding |
-| **38.213** | Physical layer procedures for data |
-| **38.214** | Physical layer procedures for control |
+| **38.213** | Physical layer procedures for control |
+| **38.214** | Physical layer procedures for data |
 | **38.215** | Physical layer measurements |
 
 
