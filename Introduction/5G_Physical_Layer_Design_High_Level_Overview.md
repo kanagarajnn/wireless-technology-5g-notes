@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this video, we will understand the design of the 5G physical layer at a very high level. 
+In this topic, we will understand the design of the 5G physical layer at a very high level. 
 Later in the course, we will go over each component in detail.
 
 ## Communication in 5G
