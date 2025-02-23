@@ -30,7 +30,7 @@ To become a member of **3GPP**, an organization must first be part of one of the
 
 The **technical specifications** in 3GPP are divided into different groups, each responsible for a specific aspect of the network:
 
-- **RAN1** – Physical Layer (Focus of this course)
+- **RAN1** – Physical Layer
 - **RAN2** – Layer 2 and Layer 3 protocols
 - **RAN3** – Overall architecture
 - **RAN4** – RF and performance requirements
@@ -80,6 +80,7 @@ For LTE, the technical specifications start with the **36-series** (e.g., 36.211
 | **38.321** | Medium Access Control (MAC) protocol |
 | **38.322** | Radio Link Control (RLC) protocol |
 | **38.323** | Packet Data Convergence Protocol (PDCP) |
+| **37.324** | Service Data Adaptation Protocol (SDAP) |
 
 ### **Key 5G Layer 3 Specification**
 | Specification | Description |
