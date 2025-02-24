@@ -84,10 +84,10 @@ In wireless communication, data transmission is susceptible to **noise, interfer
 ---
 
 ## **HARQ Benefits in 5G**
-✅ **Enhances Reliability** → Reduces packet loss.
-✅ **Minimizes Latency** → Ensures faster retransmissions.
-✅ **Optimizes Power Usage** → Reduces redundant transmissions.
-✅ **Improves Spectral Efficiency** → Maximizes data throughput.
+- ✅ **Enhances Reliability** → Reduces packet loss.
+- ✅ **Minimizes Latency** → Ensures faster retransmissions.
+- ✅ **Optimizes Power Usage** → Reduces redundant transmissions.
+- ✅ **Improves Spectral Efficiency** → Maximizes data throughput.
 
 ---
 
