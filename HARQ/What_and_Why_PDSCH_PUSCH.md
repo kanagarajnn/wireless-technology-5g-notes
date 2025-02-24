@@ -77,7 +77,7 @@ In wireless communication, data transmission is susceptible to **noise, interfer
 - Handles **scheduling of retransmissions**.
 - Supports **16 parallel HARQ processes**.
 
-### **3. HARQ in RLC Layer**
+### **3. ARQ in RLC Layer**
 - Works in **AM (Acknowledged Mode)**.
 - Provides **additional retransmission if HARQ fails**.
 
