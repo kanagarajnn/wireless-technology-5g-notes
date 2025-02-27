@@ -53,4 +53,4 @@ By utilizing **PMI feedback**, 5G networks can deliver **high-speed, low-latency
 
 ---
 ## Next Topic
-### 75. [SRS: Introduction to Sounding Reference Signal](Introduction_to_Sounding_Reference_Signal.md)  
+### 75. [SRS: Introduction to Sounding Reference Signal](../SRS/Introduction_to_Sounding_Reference_Signal.md)  
