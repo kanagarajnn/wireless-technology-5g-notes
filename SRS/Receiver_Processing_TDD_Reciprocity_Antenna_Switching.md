@@ -97,4 +97,4 @@ This completes the discussion on **SRS receiver processing in 5G NR**.
 
 ---
 ## Next Topic
-### 79. [Phase Noise: What and Why?](PTRS/Phase_Noise_What_and_Why.md)
+### 79. [Phase Noise: What and Why?](../PTRS/Phase_Noise_What_and_Why.md)
