@@ -100,4 +100,4 @@ In upcoming discussions, we will explore **PDCCH resource mapping, CORESET, and 
 
 ---
 ## Next Section
-### 33. [PDCCH: Coreset](PDCCH/PDCCH_Coreset.md)
+### 33. [PDCCH: Coreset](PDCCH_Coreset.md)
