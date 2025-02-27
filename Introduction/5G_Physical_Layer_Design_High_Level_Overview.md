@@ -342,9 +342,9 @@ However, to enable efficient data transmission, many additional signals and chan
   - Provide system and control information.
   - Ensure stable and efficient communication.
 
-## Purpose of This Course
+## Purpose of This Resource
 
-This course is designed to:
+This resource is designed to:
 - Provide an in-depth understanding of **5G physical layer channels and signals**.
 - Explain **how these signals are designed** and **their specific roles**.
 - Cover the **3GPP specifications** that define these signals and their usage.
