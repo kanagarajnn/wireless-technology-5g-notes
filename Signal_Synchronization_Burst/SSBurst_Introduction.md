@@ -60,5 +60,5 @@ Future discussions will delve deeper into **beamforming**, **SS Block measuremen
 
 ---
 ## Next Section
-### 27. [SSBurst PSS](Signal_Synchronization_Burst/SSBurst_PSS.md)
+### 27. [SSBurst PSS](SSBurst_PSS.md)
 
