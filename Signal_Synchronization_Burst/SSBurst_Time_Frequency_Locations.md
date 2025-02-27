@@ -90,4 +90,4 @@ In the next discussion, we will explore **GSCN and ARFCN in 5G network deploymen
 
 ---
 ## Next Section
-### 31. [PDCCH: Transmitter Design and DMRS](PDCCH/PDCCH_Transmitter_Design_DMRS.md)
+### 31. [PDCCH: Transmitter Design and DMRS](../PDCCH/PDCCH_Transmitter_Design_DMRS.md)
