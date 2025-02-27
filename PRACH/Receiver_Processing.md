@@ -107,4 +107,4 @@ Understanding PRACH receiver processing is essential for optimizing **5G NR rand
 
 ---
 ## Next Section
-### To be Added Soon
+### 56. [PUCCH: Introduction to Physical Uplink Control Channel](../PUCCH/Introduction.md)
