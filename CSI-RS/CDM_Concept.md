@@ -79,4 +79,4 @@ This fundamental concept is also utilized in **PDSCH and PUSCH DMRS generation**
 
 ---
 ## Next Topic
-### 70. [CSI-RS: Sequence Generation and Mapping](CSI-RS/Sequence_Generation_and_Mapping.md)  
+### 70. [CSI-RS: Sequence Generation and Mapping](Sequence_Generation_and_Mapping.md)  
