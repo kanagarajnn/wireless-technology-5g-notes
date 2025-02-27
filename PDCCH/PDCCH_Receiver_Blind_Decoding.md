@@ -97,4 +97,4 @@ This completes the **PDCCH Blind Decoding** section. Next, we will explore **PDS
 
 ---
 ## Next Section
-### 
+### 36. [DMRS for PDSCH and PUSCH](../PDSCH_PUSCH/DMRS_for_PDSCH_PUSCH.md)  
