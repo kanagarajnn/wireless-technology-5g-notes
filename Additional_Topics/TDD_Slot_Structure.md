@@ -131,4 +131,4 @@ Each format has a unique **latency profile** and is selected based on network co
 
 ---
 ## Next Topic
-### 90. [Quick throughput calculation](Additional_Topics/Quick_Throughput_Calculation.md)  
+### 90. [Quick throughput calculation](Quick_Throughput_Calculation.md)  
