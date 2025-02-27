@@ -108,4 +108,4 @@ Thus, **GSCN 15000 corresponds to 24.6 GHz**, ensuring proper network alignment.
 
 ---
 ## Next Topic
-### 89. [TDD slot structure](Additional_Topics/TDD_Slot_Structure.md)
+### 89. [TDD slot structure](TDD_Slot_Structure.md)
