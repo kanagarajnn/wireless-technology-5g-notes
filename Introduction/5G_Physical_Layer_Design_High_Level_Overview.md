@@ -199,7 +199,6 @@ These elements work together to ensure smooth communication between the UE and t
 - The signal could be **PBCH data**.
 - The signal could be **PDSCH data**.
 - It is continuously being decoded by the receiver.
-- It is part of the uplink package.
 - The detection and decoding of the signal are only possible when some information about the channel is known.
 
 ### Impact of Changing Environments
