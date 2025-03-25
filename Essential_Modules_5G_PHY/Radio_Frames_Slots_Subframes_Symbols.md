@@ -4,6 +4,7 @@
 In 5G, time domain structures play a crucial role in managing data transmission. The key time-domain units include:
 - **OFDM Symbols**
 - **Slots**
+- **Mini-Slots**
 - **Subframes**
 - **Frames**
 - **Hyperframes** (Repetition of frame cycles in long-term scheduling)
@@ -32,6 +33,8 @@ Each OFDM symbol consists of multiple **subcarriers**, with spacing based on num
 - **Higher subcarrier spacing (120 kHz, 240 kHz) is used for higher data rates and lower latency**, as they fit more symbols within the same time frame.
 - **Low subcarrier spacing ensures spectral efficiency**, while **high subcarrier spacing reduces latency**.
 
+OFDM symbols are the **smallest time-domain unit** used for scheduling and demodulation at the physical layer. They form the basis for constructing slots and are crucial for **channel estimation, demodulation reference signals (DMRS), and synchronization signals.**
+
 ---
 
 ## **2. Slots in 5G**
@@ -57,9 +60,28 @@ Since **slot duration changes with numerology**, the number of slots per frame v
 - **Low-latency applications** like URLLC (Ultra-Reliable Low Latency Communications) utilize higher subcarrier spacing.
 - **Lower numerologies allow for extended coverage**, ideal for large macro-cell deployments.
 
+Slots are the primary **time-domain resource unit** for **scheduling uplink/downlink transmissions**, defining when UEs are allowed to transmit or receive data.
+
 ---
 
-## **3. Frames and Subframes**
+## **3. Mini-Slots in 5G**
+A **mini-slot** is a subset of a full slot, consisting of **2, 4, or 7 OFDM symbols**.
+
+### **Key Features**
+- Mini-slots can **start at any OFDM symbol index**, unlike regular slots which start at slot boundaries.
+- Allow **faster scheduling and transmission**, especially important for **low-latency and event-driven traffic**.
+- Widely used in **URLLC**, **grant-free access**, and **dynamic TDD systems**.
+
+### **Benefits of Mini-Slots**
+- **Low latency**: Immediate transmission without waiting for full slot boundaries.
+- **Efficient spectrum usage**: Enables fine-grained resource allocation.
+- **Suitable for short bursts of data**, like control signaling or uplink grant-free transmissions.
+
+Mini-slots enhance **5G NR’s scheduling flexibility**, allowing the gNB to respond quickly to transmission requests or control messages. They're essential for supporting **real-time applications** with strict timing constraints.
+
+---
+
+## **4. Frames and Subframes**
 - **A frame is always 10 ms long** (fixed parameter in 5G).
 - **Each frame consists of multiple slots**, depending on numerology.
 - **Each subframe is 1 ms long** and contains **multiple slots**.
@@ -85,9 +107,11 @@ Since **slot duration changes with numerology**, the number of slots per frame v
   - **120 kHz → 8 slots per subframe**
   - **240 kHz → 16 slots per subframe**
 
+Frames and subframes are essential for **long-term scheduling decisions**, and their boundaries are used for **system synchronization and HARQ process alignment**.
+
 ---
 
-## **4. Frame Numbering and Hyperframes in 5G**
+## **5. Frame Numbering and Hyperframes in 5G**
 Frames are numbered from **0 to 1023**, creating a full cycle every **10.24 seconds**.
 
 - After frame **1023**, numbering resets to **0**.
@@ -95,9 +119,12 @@ Frames are numbered from **0 to 1023**, creating a full cycle every **10.24 seco
 
 Frame numbering plays a crucial role in **synchronization, HARQ (Hybrid Automatic Repeat Request) retransmissions, and scheduling decisions** in 5G networks.
 
+In time-critical applications, frame numbers are used to **identify timing windows**, align HARQ processes, and maintain **timing consistency** across numerologies and carriers.
+
 ---
 
 ## **Real-World Applications in 5G Modem Software**
+
 ### **1. Low Latency Communication (URLLC)**
 - **Higher subcarrier spacing (120 kHz, 240 kHz)** reduces **slot duration**, enabling **low-latency applications** like:
   - **Autonomous driving**
@@ -124,6 +151,7 @@ Frame numbering plays a crucial role in **synchronization, HARQ (Hybrid Automati
 
 ## **Conclusion**
 - **Frames (10 ms) and subframes (1 ms) are fixed**, but **slots vary with numerology**.
+- **Mini-slots offer fine-grained, low-latency transmission opportunities**.
 - **Slot duration depends on subcarrier spacing**, impacting **latency and coverage**.
 - **Frame numbering and hyperframes are crucial for synchronization and long-term scheduling**.
 - **Understanding time-domain structure** is essential for **5G modem software engineers**, especially for scheduling and low-latency applications.
@@ -133,3 +161,4 @@ Mastering **5G time-domain concepts** is crucial for optimizing **network perfor
 ---
 ## Next Section
 ### [PRBs in 5G](PRBs.md)
+
