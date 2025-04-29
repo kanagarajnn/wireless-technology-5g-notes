@@ -129,7 +129,7 @@
 93. [HARQ: What and Why? (PDSCH and PUSCH)](HARQ/What_and_Why_PDSCH_PUSCH.md)
 94. [HARQ: Introduction Part 1](HARQ/HARQ_Intro_Part1.md)
 95. [HARQ: Introduction Part 2](HARQ/HARQ_Intro_Part2.md)
-96. [HARQ: HARQ at PHY MAC RCL RRC](HARQ/HARQ_at_PHY_MAC_RLC_RRC.md) 
+96. [HARQ: HARQ at PHY MAC RLC RRC](HARQ/HARQ_at_PHY_MAC_RLC_RRC.md) 
 97. [HARQ: CBG Based Transmission](HARQ/CBG_Based_Transmission.md)  
 98. [HARQ: Codebooks for PDSCH Ack/Nack](HARQ/Codebooks_for_PDSCH_Ack_Nack.md)  
 
