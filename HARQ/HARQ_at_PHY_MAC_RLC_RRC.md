@@ -36,7 +36,7 @@ The **Medium Access Control (MAC) Layer (L2)** is responsible for managing HARQ 
 - The device (UE) stores soft bits from previous failed transmissions and waits for the next retransmission attempt.
 
 ---
-## 3. HARQ in Layer 2 (RLC Sub-Layer)
+## 3. ARQ in Layer 2 (RLC Sub-Layer)
 The **Radio Link Control (RLC) Sub-Layer**, a part of Layer 2, provides an additional level of error correction and retransmission above the MAC Layer. While HARQ operates at the MAC Layer, **RLC Automatic Repeat reQuest (ARQ)** complements it by handling retransmissions at a higher layer.
 
 ### **Functions of HARQ in RLC:**
@@ -50,7 +50,7 @@ The **Radio Link Control (RLC) Sub-Layer**, a part of Layer 2, provides an addit
 - The RLC layer identifies the missing segments and requests retransmission, ensuring data integrity without retransmitting the entire transport block.
 
 ---
-## 4. HARQ in Layer 3 (RRC Layer)
+## 4. Role of Layer 3 (RRC Layer)
 The **Radio Resource Control (RRC) Layer (L3)** handles higher-level retransmission strategies, focusing on persistent errors and overall radio link quality.
 
 ### **Functions of HARQ in Layer 3:**
