@@ -91,4 +91,4 @@ Understanding these concepts is crucial for modem software engineers working on 
 
 ---
 ## Next Topic
-### 96. [HARQ: HARQ at PHY MAC RCL RRC](HARQ_at_PHY_MAC_RLC_RRC.md)
+### 96. [HARQ: HARQ at PHY MAC RLC RRC](HARQ_at_PHY_MAC_RLC_RRC.md)
